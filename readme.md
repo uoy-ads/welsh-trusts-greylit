@@ -11,8 +11,8 @@ This script will ingest Welsh Archaerological Truts grey literature data from th
 
 
 ```
-git clone https://github.com/uoy-ads/welsh-trust-greylit.git
-cd welsh-trust-greylit
+git clone https://github.com/uoy-ads/welsh-trusts-greylit.git
+cd welsh-trusts-greylit
 
 ```
 
@@ -20,12 +20,12 @@ cd welsh-trust-greylit
 
 
 3. Build the Docker image
-`docker build -t welsh-trust-greylit .`
+`docker build -t welsh-trusts-greylit .`
 
 
 4. Run the container (the app will automatically start)
 
-`docker run -it --rm welsh-trust-greylit`
+`docker run -it --rm welsh-trusts-greylit`
 
 
 Part of the Dockerfile was adapted from https://github.com/uoy-ads/ads-ingest/blob/main/server/Dockerfile by @adsjim
