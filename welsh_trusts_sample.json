@@ -1,0 +1,761 @@
+[
+    {
+        "oasisProjDetails": {
+            "projName": "Soughton, Soughton Hall, Flintshire, heritage statement",
+            "projReference": "CPAT100311",
+            "descMethod": "HERITAGE ASSESSMENT",
+            "descOutcome": "This Heritage Statement has been prepared as part of an application for listed building consent for internal alterations consisting of the widening of an existing doorway between the Saloon and the adjoining Dining Room at first floor level. The works are considered necessary to support the continued operation of the building as a wedding venue and conference facility/hotel.\n",
+            "entryDate": "2019-09-26 00:00:00",
+            "projUrl": "https://archwilio.org.uk/arch/query/page.php?watprn=CPAT100311&dbname=cpat&tbname=event"
+        },
+        "oasisProjSiteList": [
+            {
+                "sitename": "Soughton Hall",
+                "sitecode": "CPAT59539",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(324820,367355)",
+                    "geomLlOut": "POINT(-3.1268286,53.1979739)"
+                }
+            }
+        ],
+        "oasisProjBiblioList": [
+            {
+                "title": "Soughton Hall, Heritage Statement",
+                "publisher": "Anne Lloyd Morris Heritage Planning Consultancy",
+                "biblioType": "Report (digital)",
+                "pubdate": "2016",
+                "place": "CPAT Digital Archive",
+                "url": "https://walesher1974.org/herumd.php?group=CPAT&level=3&docid=301372992",
+                "oasisProjBiblioAuthsList": {
+                    "name": "Lloyd-Morris, A.",
+                    "role": "auths"
+                }
+            }
+        ],
+        "adminAreasMap": {
+            "Country": "Wales",
+            "Unitary Authority": "Flintshire",
+            "Old County": "Clwyd",
+            "Community": "Northop"
+        }
+    },
+    {
+        "oasisProjDetails": {
+            "projName": "Gwaenysgor Cave Glastir HEF report",
+            "projReference": "CPAT102239",
+            "descMethod": "GLASTIR HEF REPORT",
+            "descOutcome": "Glastir HEF report.",
+            "entryDate": "2013-10-09 00:00:00",
+            "projUrl": "https://archwilio.org.uk/arch/query/page.php?watprn=CPAT102239&dbname=cpat&tbname=event"
+        },
+        "oasisProjSiteList": [
+            {
+                "sitename": "Gwaenysgor Cave Upper Entrance (formerly Gop Farm Cave)",
+                "sitecode": "CPAT102239",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(308020,380410)",
+                    "geomLlOut": "POINT(-3.3820208,53.3126562)"
+                }
+            },
+            {
+                "sitename": "Gwaenysgor Cave, Harrison's Entrance (formerly Gwaenysgor Cave)",
+                "sitecode": "CPAT19107",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(308025,380391)",
+                    "geomLlOut": "POINT(-3.3819402,53.3124863)"
+                }
+            }
+        ],
+        "oasisProjBiblioList": [
+            {
+                "title": "Early Prehistoric Settlement in Mid and North-East Wales: the Lithic Evidence",
+                "publisher": "Clwyd Powys Archaeological Trust",
+                "biblioType": null,
+                "pubdate": "2002",
+                "place": "",
+                "url": "https://walesher1974.org/herumd.php?group=CPAT&level=3&docid=301357517",
+                "oasisProjBiblioAuthsList": {
+                    "name": "Silvester, R. J., & Owen, W. J",
+                    "role": "auths"
+                }
+            },
+            {
+                "title": "Early Prehistoric Settlement in Mid and North-East Wales: the Lithic Evidence",
+                "publisher": "Clwyd Powys Archaeological Trust",
+                "biblioType": null,
+                "pubdate": "2002",
+                "place": "",
+                "url": "https://walesher1974.org/herumd.php?group=CPAT&level=3&docid=301357517",
+                "oasisProjBiblioAuthsList": {
+                    "name": "Silvester, R. J., & Owen, W. J",
+                    "role": "auths"
+                }
+            },
+            {
+                "title": "Caves of North-East Wales: Archaeological Assessment 2014-15",
+                "publisher": "Clwyd Powys Archaeological Trust",
+                "biblioType": "Report (digital)",
+                "pubdate": "2015",
+                "place": "CPAT Digital Archive",
+                "url": "https://walesher1974.org/herumd.php?group=CPAT&level=3&docid=301368898",
+                "oasisProjBiblioAuthsList": {
+                    "name": "Hankinson, R",
+                    "role": "auths"
+                }
+            }
+        ],
+        "adminAreasMap": {
+            "Country": "Wales",
+            "Unitary Authority": "Flintshire",
+            "Old County": "Clwyd",
+            "Community": "Trelawnyd and Gwaenysgor"
+        }
+    },
+    {
+        "oasisProjDetails": {
+            "projName": "South Wales Gas pipeline, project",
+            "projReference": "CPAT102846",
+            "descMethod": "PROJECT",
+            "descOutcome": "Multiple archaeological events in Powys on the route of the gas pipeline between Milford Haven and Tirley, Gloucestershire (Felindre to Tirley section).\n\nThe route also crosses the Dyfed Archaeological Trust and Glamorgan-Gwent Archaeological Trust regions, see DAT PRN 102846 and GGAT PRN E102846. (Jeff Spencer, CPAT, January 2016)",
+            "entryDate": "2013-08-06 00:00:00",
+            "projUrl": "https://archwilio.org.uk/arch/query/page.php?watprn=CPAT102846&dbname=cpat&tbname=event"
+        },
+        "oasisProjSiteList": [
+            {
+                "sitename": "South Wales gas pipeline, Watching Brief Site 51.11, iron working site",
+                "sitecode": "CPAT131185",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(303140,230990)",
+                    "geomLlOut": "POINT(-3.4113399,51.9689306)"
+                }
+            },
+            {
+                "sitename": "South Wales gas pipeline, Excavation Site 51.7, occupation site",
+                "sitecode": "CPAT131186",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(302750,230920)",
+                    "geomLlOut": "POINT(-3.4169954,51.9682347)"
+                }
+            },
+            {
+                "sitename": "South Wales gas pipeline, Excavation Site 51.7, settlement",
+                "sitecode": "CPAT131187",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(302750,230920)",
+                    "geomLlOut": "POINT(-3.4169954,51.9682347)"
+                }
+            },
+            {
+                "sitename": "South Wales gas pipeline, Excavation Site 51.7, occupation site",
+                "sitecode": "CPAT131188",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(302750,230920)",
+                    "geomLlOut": "POINT(-3.4169954,51.9682347)"
+                }
+            },
+            {
+                "sitename": "South Wales gas pipeline, Watching Brief Site 51.2, occupation site",
+                "sitecode": "CPAT131189",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(302138,230496)",
+                    "geomLlOut": "POINT(-3.42578,51.9643191)"
+                }
+            },
+            {
+                "sitename": "South Wales gas pipeline, Watching Brief Site 50.14, garden",
+                "sitecode": "CPAT131190",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(300397,230178)",
+                    "geomLlOut": "POINT(-3.4510204,51.9611632)"
+                }
+            },
+            {
+                "sitename": "South Wales gas pipeline, Watching Brief Site 50.14, alluvial deposits",
+                "sitecode": "CPAT131191",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(300397,230178)",
+                    "geomLlOut": "POINT(-3.4510204,51.9611632)"
+                }
+            },
+            {
+                "sitename": "South Wales gas pipeline, Excavation Site 50.11, pit",
+                "sitecode": "CPAT131192",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(300120,230000)",
+                    "geomLlOut": "POINT(-3.4549988,51.9595159)"
+                }
+            },
+            {
+                "sitename": "South Wales gas pipeline, Excavation Site 50.11, Roman road (section)",
+                "sitecode": "CPAT131193",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(300120,230000)",
+                    "geomLlOut": "POINT(-3.4549988,51.9595159)"
+                }
+            },
+            {
+                "sitename": "South Wales gas pipeline, Excavation Site 50.11, occupation site",
+                "sitecode": "CPAT131194",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(300120,230000)",
+                    "geomLlOut": "POINT(-3.4549988,51.9595159)"
+                }
+            }
+        ],
+        "oasisProjBiblioList": [
+            {
+                "title": "South Wales Gas Pipeline Project. Site 50.05. Land West of Aberyscir Court, Yscir, Powys: Archaeological Excavation",
+                "publisher": "Cotswold Archaeology",
+                "biblioType": "Report (digital)",
+                "pubdate": "2014",
+                "place": "CPAT Digital Archive",
+                "url": "https://walesher1974.org/herumd.php?group=CPAT&level=3&docid=301448719",
+                "oasisProjBiblioAuthsList": {
+                    "name": "Leonard, C. ",
+                    "role": "auths"
+                }
+            },
+            {
+                "title": "South Wales Gas Pipeline Project. Site 51.11. Land North of Pen-y-Crug, Honddu Isaf, Powys: Archaeological Watching Brief",
+                "publisher": "Cotswold Archaeology",
+                "biblioType": "Report (digital)",
+                "pubdate": "2013",
+                "place": "CPAT Digital Archive",
+                "url": "https://walesher1974.org/herumd.php?group=CPAT&level=3&docid=301448752",
+                "oasisProjBiblioAuthsList": {
+                    "name": "Busby, P.",
+                    "role": "auths"
+                }
+            },
+            {
+                "title": "South Wales Gas Pipeline Project: Site 44.04. Land East of Trephilip Bridge, Maescar, Powys. ",
+                "publisher": "Cotswold Archaeology",
+                "biblioType": "Report (digital)",
+                "pubdate": "2013",
+                "place": "CPAT Digital Archive",
+                "url": "https://walesher1974.org/herumd.php?group=CPAT&level=3&docid=301448736",
+                "oasisProjBiblioAuthsList": {
+                    "name": "Busby, P. ",
+                    "role": "auths"
+                }
+            },
+            {
+                "title": "South Wales Gas Pipeline Project. Site 51.02. Land at Pysgodlyn Farm, Yscir, Powys: Archaeological Watching Brief",
+                "publisher": "Cotswold Archaeology",
+                "biblioType": "Report (digital)",
+                "pubdate": "2013",
+                "place": "CPAT Digital Archive",
+                "url": "https://walesher1974.org/herumd.php?group=CPAT&level=3&docid=301448753",
+                "oasisProjBiblioAuthsList": {
+                    "name": "Busby, P.",
+                    "role": "auths"
+                }
+            },
+            {
+                "title": "South Wales Gas Pipeline Project. Site 50.14. Land South of Pont-ar-Yscir, Powys: Archaeological Watching Brief",
+                "publisher": "Cotswold Archaeology",
+                "biblioType": "Report (digital)",
+                "pubdate": "2013",
+                "place": "CPAT Digital Archive",
+                "url": "https://walesher1974.org/herumd.php?group=CPAT&level=3&docid=301448754",
+                "oasisProjBiblioAuthsList": {
+                    "name": "Sausins, D.",
+                    "role": "auths"
+                }
+            },
+            {
+                "title": "South Wales Gas Pipeline Project. Site 50.06. Land West of Aberyscir, Brecon, Powys: Archaeological Evaluation and Watching Brief",
+                "publisher": "Cotswold Archaeology",
+                "biblioType": "Report (digital)",
+                "pubdate": "2013",
+                "place": "CPAT Digital Archive",
+                "url": "https://walesher1974.org/herumd.php?group=CPAT&level=3&docid=301448755",
+                "oasisProjBiblioAuthsList": {
+                    "name": "Brannlund, L. & Busby, P. ",
+                    "role": "auths"
+                }
+            },
+            {
+                "title": "South Wales Gas Pipeline Project. Sites 49.05, 50.01 and 50.11. Road Sections at Yscir, Powys: Archaeological Evaluation and Excavations",
+                "publisher": "Cotswold Archaeology",
+                "biblioType": "Report (digital)",
+                "pubdate": "2014",
+                "place": "CPAT Digital Archive",
+                "url": "https://walesher1974.org/herumd.php?group=CPAT&level=3&docid=301448756",
+                "oasisProjBiblioAuthsList": {
+                    "name": "Brannlund, L. ",
+                    "role": "auths"
+                }
+            }
+        ],
+        "adminAreasMap": {
+            "Country": "Wales",
+            "Unitary Authority": "Powys",
+            "Old County": "Powys",
+            "Community": "Yscir"
+        }
+    },
+    {
+        "oasisProjDetails": {
+            "projName": "A40 Llansantffraed/Talybont-on-Usk Embankment Stabilisationand Junction Improvement, assessment project 2005",
+            "projReference": "CPAT106293",
+            "descMethod": "ASSESSMENT PROJECT",
+            "descOutcome": "Assessment project carried out by Clwyd Powys Archaeological Trust in 2005",
+            "entryDate": "2012-09-14 00:00:00",
+            "projUrl": "https://archwilio.org.uk/arch/query/page.php?watprn=CPAT106293&dbname=cpat&tbname=event"
+        },
+        "oasisProjSiteList": [
+            {
+                "sitename": "Llansantffread, lodge",
+                "sitecode": "CPAT125525",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(312401,223272)",
+                    "geomLlOut": "POINT(-3.274602,51.9010967)"
+                }
+            },
+            {
+                "sitename": "Talybont-on-Usk, dismantled railway line",
+                "sitecode": "CPAT128561",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(312130,223510)",
+                    "geomLlOut": "POINT(-3.2786008,51.9031946)"
+                }
+            },
+            {
+                "sitename": "Talybont-on-Usk, Roman Road",
+                "sitecode": "CPAT128562",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(312250,223310)",
+                    "geomLlOut": "POINT(-3.2768059,51.9014152)"
+                }
+            },
+            {
+                "sitename": "LIansantffraed, platform",
+                "sitecode": "CPAT128563",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(312040,223640)",
+                    "geomLlOut": "POINT(-3.2799419,51.9043494)"
+                }
+            },
+            {
+                "sitename": "LIansantffraed, boundary I",
+                "sitecode": "CPAT128564",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(312060,223620)",
+                    "geomLlOut": "POINT(-3.2796461,51.9041727)"
+                }
+            },
+            {
+                "sitename": "LIansantffraed, boundary II",
+                "sitecode": "CPAT128565",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(312140,223570)",
+                    "geomLlOut": "POINT(-3.2784708,51.9037355)"
+                }
+            },
+            {
+                "sitename": "LIansantffraed, boundary III",
+                "sitecode": "CPAT128566",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(312440,223190)",
+                    "geomLlOut": "POINT(-3.2740144,51.9003656)"
+                }
+            },
+            {
+                "sitename": "Llansantffread, Allt quarry",
+                "sitecode": "CPAT128567",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(312390,223310)",
+                    "geomLlOut": "POINT(-3.2747715,51.9014366)"
+                }
+            },
+            {
+                "sitename": "Buckland House, drive",
+                "sitecode": "CPAT128568",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(312420,223210)",
+                    "geomLlOut": "POINT(-3.2743101,51.9005423)"
+                }
+            },
+            {
+                "sitename": "Llansantffraed, boundary IV",
+                "sitecode": "CPAT128569",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(312380,223370)",
+                    "geomLlOut": "POINT(-3.2749321,51.9019744)"
+                }
+            }
+        ],
+        "oasisProjBiblioList": [
+            {
+                "title": "A40 Llansantffraed/Talybont on Usk, embankment Stabilisation and Junction Improvement, Powys",
+                "publisher": "Clwyd Powys Archaeological Trust",
+                "biblioType": "Assessment report",
+                "pubdate": "2005",
+                "place": "7a Church St Report Shelves",
+                "url": "https://walesher1974.org/herumd.php?group=CPAT&level=3&docid=301360745",
+                "oasisProjBiblioAuthsList": {
+                    "name": "Silvester, R J",
+                    "role": "auths"
+                }
+            }
+        ],
+        "adminAreasMap": {
+            "Country": "Wales",
+            "Unitary Authority": "Powys",
+            "Old County": "Powys",
+            "Community": "Talybont-on-usk"
+        }
+    },
+    {
+        "oasisProjDetails": {
+            "projName": "Rhyd y Carw Barns, building recording 2005",
+            "projReference": "CPAT106294",
+            "descMethod": "BUILDING SURVEY",
+            "descOutcome": "Building recording carried out by Micheal Goulden Architect & CPAT in 2005",
+            "entryDate": "2007-05-02 00:00:00",
+            "projUrl": "https://archwilio.org.uk/arch/query/page.php?watprn=CPAT106294&dbname=cpat&tbname=event"
+        },
+        "oasisProjSiteList": [
+            {
+                "sitename": "Rhyd-y-carw farm, barn",
+                "sitecode": "CPAT60737",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(295753,290743)",
+                    "geomLlOut": "POINT(-3.5372755,52.5046092)"
+                }
+            }
+        ],
+        "oasisProjBiblioList": [
+            {
+                "title": "Rhyd y Carw Barns, Trefeglwys. Survey Report",
+                "publisher": "Michael Goulden Architect",
+                "biblioType": "Report",
+                "pubdate": "2005",
+                "place": "",
+                "url": "https://walesher1974.org/herumd.php?group=CPAT&level=3&docid=301365357",
+                "oasisProjBiblioAuthsList": {
+                    "name": "Michael Goulden & Nigel Jones",
+                    "role": "auths"
+                }
+            }
+        ],
+        "adminAreasMap": {
+            "Country": "Wales",
+            "Unitary Authority": "Powys",
+            "Old County": "Powys",
+            "Community": "Trefeglwys"
+        }
+    },
+    {
+        "oasisProjDetails": {
+            "projName": "Prestatyn, Melyd Avenue settlement, watching brief 2005",
+            "projReference": "CPAT106298",
+            "descMethod": "WATCHING BRIEF",
+            "descOutcome": "Watching brief carried out by Engineering Archaeological Services in 2005",
+            "entryDate": "2012-09-14 00:00:00",
+            "projUrl": "https://archwilio.org.uk/arch/query/page.php?watprn=CPAT106298&dbname=cpat&tbname=event"
+        },
+        "oasisProjSiteList": [
+            {
+                "sitename": "Melyd Avenue, ditch",
+                "sitecode": "CPAT128455",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(306445,381813)",
+                    "geomLlOut": "POINT(-3.406068,53.3249808)"
+                }
+            }
+        ],
+        "oasisProjBiblioList": [
+            {
+                "title": "Melyd Avenue, Prestatyn, Archaeological Watching Brief",
+                "publisher": "Engineering Archaeological Services",
+                "biblioType": "Watching brief report",
+                "pubdate": "2005",
+                "place": "See Jeff",
+                "url": "https://walesher1974.org/herumd.php?group=CPAT&level=3&docid=301360662",
+                "oasisProjBiblioAuthsList": {
+                    "name": "Laws, K",
+                    "role": "auths"
+                }
+            }
+        ],
+        "adminAreasMap": {
+            "Country": "Wales",
+            "Unitary Authority": "Denbighshire",
+            "Old County": "Clwyd",
+            "Community": "Prestatyn"
+        }
+    },
+    {
+        "oasisProjDetails": {
+            "projName": "Newtown, Black Boy Hotel, watching brief 2005",
+            "projReference": "CPAT106299",
+            "descMethod": "WATCHING BRIEF",
+            "descOutcome": "Watching brief carried out by Clwyd Powys Archaeological Trust in 2005. No significant archaeological features appear to have been disturbed by the excavation works associated with the construction of foundations for the new extension although evidence was revealed of a possible building on the site of the extension, in the form of two\ninterconnecting foundation walls. However, these were set in material which was postmedieval\nin origin and they are unlikely to be earlier than 19th-century in date (Hankinson.R, 2005). ",
+            "entryDate": "2012-09-14 00:00:00",
+            "projUrl": "https://archwilio.org.uk/arch/query/page.php?watprn=CPAT106299&dbname=cpat&tbname=event"
+        },
+        "oasisProjSiteList": [
+            {
+                "sitename": "Newtown, Broad St `Black Boy Hotel'",
+                "sitecode": "CPAT30943",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(310806,291767)",
+                    "geomLlOut": "POINT(-3.3158445,52.5165005)"
+                }
+            }
+        ],
+        "oasisProjBiblioList": [
+            {
+                "title": "Black Boy Hotel, Newtown, Powys",
+                "publisher": "Clwyd Powys Archaeological Trust",
+                "biblioType": "Watching brief report",
+                "pubdate": "2005",
+                "place": "7a Church St, Report Shelves",
+                "url": "https://walesher1974.org/herumd.php?group=CPAT&level=3&docid=301360756",
+                "oasisProjBiblioAuthsList": {
+                    "name": "Hankinson, R",
+                    "role": "auths"
+                }
+            }
+        ],
+        "adminAreasMap": {
+            "Country": "Wales",
+            "Unitary Authority": "Powys",
+            "Old County": "Powys",
+            "Community": "Newtown and Llanllwchaiarn"
+        }
+    },
+    {
+        "oasisProjDetails": {
+            "projName": "Deeside Tramway, Nant y Pandy bridge, watching brief 2005",
+            "projReference": "CPAT106300",
+            "descMethod": "WATCHING BRIEF",
+            "descOutcome": "Watching brief carried out by Castlering Archaeology in 2005",
+            "entryDate": "2012-09-14 00:00:00",
+            "projUrl": "https://archwilio.org.uk/arch/query/page.php?watprn=CPAT106300&dbname=cpat&tbname=event"
+        },
+        "oasisProjSiteList": [
+            {
+                "sitename": "Deeside Tramway, Nant y Pandy tramway bridge",
+                "sitecode": "CPAT71312",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(314711,341505)",
+                    "geomLlOut": "POINT(-3.2712534,52.9641332)"
+                }
+            }
+        ],
+        "oasisProjBiblioList": [
+            {
+                "title": "Nant Y Pandy Tramway Bridge Replacement, Glyndyfrydwy, Denbighshire",
+                "publisher": "Castlering Archaeology",
+                "biblioType": "Watching brief report",
+                "pubdate": "2005",
+                "place": "Digital Supp File (106300)",
+                "url": "https://walesher1974.org/herumd.php?group=CPAT&level=3&docid=301360828",
+                "oasisProjBiblioAuthsList": {
+                    "name": "Frost, P",
+                    "role": "auths"
+                }
+            }
+        ],
+        "adminAreasMap": {
+            "Country": "Wales",
+            "Unitary Authority": "Denbighshire",
+            "Old County": "Clwyd",
+            "Community": "Corwen"
+        }
+    },
+    {
+        "oasisProjDetails": {
+            "projName": "Prestatyn, Melyd Avenue settlement, watching brief 2004",
+            "projReference": "CPAT106303",
+            "descMethod": "WATCHING BRIEF",
+            "descOutcome": "Watching brief carried out by Cadw in 2004",
+            "entryDate": "2007-05-08 00:00:00",
+            "projUrl": "https://archwilio.org.uk/arch/query/page.php?watprn=CPAT106303&dbname=cpat&tbname=event"
+        },
+        "oasisProjSiteList": [
+            {
+                "sitename": "Prestatyn, Melyd Avenue settlement",
+                "sitecode": "CPAT102196",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(306200,381800)",
+                    "geomLlOut": "POINT(-3.4097413,53.3248199)"
+                }
+            }
+        ],
+        "oasisProjBiblioList": [
+            {
+                "title": "Melyd Avenue, Prestatyn. Archaeological Watching Brief",
+                "publisher": "Cadw",
+                "biblioType": "Report",
+                "pubdate": "2004",
+                "place": "",
+                "url": "https://walesher1974.org/herumd.php?group=CPAT&level=3&docid=301365329",
+                "oasisProjBiblioAuthsList": {
+                    "name": "Ian Halfpenney",
+                    "role": "auths"
+                }
+            }
+        ],
+        "adminAreasMap": {
+            "Country": "Wales",
+            "Unitary Authority": "Denbighshire",
+            "Old County": "Clwyd",
+            "Community": "Prestatyn"
+        }
+    },
+    {
+        "oasisProjDetails": {
+            "projName": "Machynlleth, Paliament House, evaluation 2005",
+            "projReference": "CPAT106304",
+            "descMethod": "EVALUATION",
+            "descOutcome": "Evaluation carried out by Clwyd Powys Archaeological Trust in 2005 which provided significant evidence for \noccupation during the late medieval and early post-medieval periods to the rear of Parliament House. Although it seems that much of the rear area has been disturbed, possibly during the early 20th-century refurbishments, several \nsherds of medieval pottery were recovered from later contexts, indicating the possibility of earlier occupation on the plot. The trench against the rear wall of the building revealed a rubbish pit containing organic remains and a single sherd of 15th or 16th  -century pottery, as well as a number of stone roofing tiles and sherds of ceramic ridge tile, revealing what was perhaps the original roofing for the building (CPAT, 2005). ",
+            "entryDate": "2012-09-14 00:00:00",
+            "projUrl": "https://archwilio.org.uk/arch/query/page.php?watprn=CPAT106304&dbname=cpat&tbname=event"
+        },
+        "oasisProjSiteList": [
+            {
+                "sitename": "Machynlleth, Heol Maengwyn `Owain Glyndwr Parliament House'",
+                "sitecode": "CPAT1270",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(274816,300841)",
+                    "geomLlOut": "POINT(-3.8493939,52.5909348)"
+                }
+            }
+        ],
+        "oasisProjBiblioList": [
+            {
+                "title": "Parliament House, Machynlleth, Powys, Archaeological Evaluation",
+                "publisher": "Clwyd Powys Archaeological Trust",
+                "biblioType": "Evaluation report",
+                "pubdate": "2005",
+                "place": "Digital Supp File",
+                "url": "https://walesher1974.org/herumd.php?group=CPAT&level=3&docid=301360892",
+                "oasisProjBiblioAuthsList": {
+                    "name": "Jones N, Silvester, R J & Hankinson R",
+                    "role": "auths"
+                }
+            }
+        ],
+        "adminAreasMap": {
+            "Country": "Wales",
+            "Unitary Authority": "Powys",
+            "Old County": "Powys",
+            "Community": "Machynlleth"
+        }
+    },
+    {
+        "oasisProjDetails": {
+            "projName": "Prestatyn, Fforddisa Roman site, evaluation 2004",
+            "projReference": "CPAT106306",
+            "descMethod": "EVALUATION",
+            "descOutcome": "Evaluation carried out by Archaeological Investigations in 2004. No archaeological finds or features were present within the excavated areas of the site (Rouse.D, 2004). ",
+            "entryDate": "2012-09-14 00:00:00",
+            "projUrl": "https://archwilio.org.uk/arch/query/page.php?watprn=CPAT106306&dbname=cpat&tbname=event"
+        },
+        "oasisProjSiteList": [
+            {
+                "sitename": "Prestatyn, Fforddisa 'Roman site'",
+                "sitecode": "CPAT101416",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(305900,382100)",
+                    "geomLlOut": "POINT(-3.4143332,53.3274619)"
+                }
+            }
+        ],
+        "oasisProjBiblioList": [
+            {
+                "title": "Tip Lane, Prestatyn, Denbighshire",
+                "publisher": "Archaeological Investigations ",
+                "biblioType": "Evaluation report",
+                "pubdate": "2004",
+                "place": "See Jeff",
+                "url": "https://walesher1974.org/herumd.php?group=CPAT&level=3&docid=301360658",
+                "oasisProjBiblioAuthsList": {
+                    "name": "Rouse, D",
+                    "role": "auths"
+                }
+            }
+        ],
+        "adminAreasMap": {
+            "Country": "Wales",
+            "Unitary Authority": "Denbighshire",
+            "Old County": "Clwyd",
+            "Community": "Prestatyn"
+        }
+    },
+    {
+        "oasisProjDetails": {
+            "projName": "St Asaph Cathedral, evaluation 2004",
+            "projReference": "CPAT106308",
+            "descMethod": "EVALUATION",
+            "descOutcome": "Evaluation carried out by Engineering Archaeological Services in 2004.\nWork carried out in relation to proposals to erect a new visitor and heritage centre in the catheral grounds to west and north-west of cathedral. A limited number of features were located in the evaluation trenches, however none of these proved to be of any great antiquity. It is likely that all of the \nfeatures were the result of modern horticultural activities or the result of animal disturbance. \nTwo fragments of Medieval floor tile were recovered, however these proved to be residual (EAS, 2004). ",
+            "entryDate": "2012-09-14 00:00:00",
+            "projUrl": "https://archwilio.org.uk/arch/query/page.php?watprn=CPAT106308&dbname=cpat&tbname=event"
+        },
+        "oasisProjSiteList": [
+            {
+                "sitename": "St Asaph Cathedral",
+                "sitecode": "CPAT102126",
+                "oasisProjSiteCoordsList": {
+                    "vectorType": "POINT",
+                    "geomNgrOut": "POINT(303896,374310)",
+                    "geomLlOut": "POINT(-3.4420537,53.2571004)"
+                }
+            }
+        ],
+        "oasisProjBiblioList": [
+            {
+                "title": "St Asaph Cathedral, Archaeological Evaluation",
+                "publisher": "Engineering Archaeological Services",
+                "biblioType": "Evaluation report",
+                "pubdate": "2004",
+                "place": "Digital Supp File",
+                "url": "https://walesher1974.org/herumd.php?group=CPAT&level=3&docid=301360826",
+                "oasisProjBiblioAuthsList": {
+                    "name": "Engineering Archaeological Services Ltd",
+                    "role": "auths"
+                }
+            }
+        ],
+        "adminAreasMap": {
+            "Country": "Wales",
+            "Unitary Authority": "Denbighshire",
+            "Old County": "Clwyd",
+            "Community": "St Asaph"
+        }
+    }
+]
